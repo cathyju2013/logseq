@@ -1,0 +1,4 @@
+- {{query (and [[TODO]] )}}
+-
+- {{query (and [[DONE]] )}}
+-

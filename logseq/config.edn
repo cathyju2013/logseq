@@ -215,7 +215,7 @@
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
  :journal/page-title-format "yyyy-MM-dd"
- :graph/settings {:journal? false, :builtin-pages? true}
+ :graph/settings {:journal? true, :builtin-pages? true}
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}

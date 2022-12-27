@@ -330,7 +330,10 @@
   :block/updated-at 1671616810057}
  {:block/name "2022-12-22",
   :block/created-at 1671611690960,
-  :block/updated-at 1671611690960}
+  :block/updated-at 1671701761059}
+ {:block/name "2022-12-23",
+  :block/created-at 1671701761058,
+  :block/updated-at 1671701761058}
  {:block/name "2022-12-24",
   :block/created-at 1671363019683,
   :block/updated-at 1671363019683}
